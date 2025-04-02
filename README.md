@@ -19,7 +19,7 @@ To use this repository, clone it and install the required dependencies:
 
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB/carbon-budget-model.git
+git clone https://github.com/PLANiT-Institute/carbonbudget.git
 cd carbon-budget-model
 
 # Install dependencies
